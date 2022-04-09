@@ -11,7 +11,7 @@
 		"firebase": "^5.11.1",
 		"grpc": "^1.24.2",
 		"md5": "^2.2.1",
-		"moment": "^2.24.0",
+		"moment": "^2.29.2",
 		"react": "^16.13.1",
 		"react-avatar-editor": "^11.0.7",
 		"react-color": "^2.18.0",
